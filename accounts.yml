@@ -5,7 +5,8 @@ accounts:
   message: "Welcome to test accounts related local APIs "
   contactDetails:
     name: "Prasanna Doe - Developer"
-    email: "john@eazybank.com"
+    email: "de7da3639e4f82d34d431a3a9428e0cade3ee4bc4b8c794118d50c57da9960414d3195633ad6c85117c74451fd5e717a
+"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
